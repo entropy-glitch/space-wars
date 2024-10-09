@@ -4,6 +4,12 @@ All notable changes to the "space-wars" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+### Added
+
+v.1.0.0
 
 - Initial release
+
+v.1.0.1
+
+- Updated images for the themes

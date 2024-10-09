@@ -3,7 +3,7 @@
   "displayName": "Space Wars - Theme",
   "icon": "artworks/logo.png",
   "description": "A VSCode theme extension that immerses you in the epic universe of Space Wars.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "Dutchorange",
   "repository": {
     "type": "git",
@@ -19,6 +19,13 @@
       "date": "2024-10-09",
       "notes": [
         "Production release"
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "date": "2024-10-09",
+      "notes": [
+        "Updated theme images"
       ]
     }
   ],
@@ -47,7 +54,20 @@
     "art",
     "minimal",
     "galactic",
-    "glow"
+    "glow",
+    "pixel",
+    "space",
+    "wars",
+    "star",
+    "vintage",
+    "quality",
+    "modern",
+    "mr robot",
+    "dark",
+    "theme",
+    "vscode",
+    "editor",
+    "syntax"
   ],
   "contributes": {
     "themes": [
