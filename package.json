@@ -1,0 +1,71 @@
+{
+  "name": "space-wars",
+  "displayName": "Space Wars - Theme",
+  "icon": "artworks/logo.png",
+  "description": "A VSCode theme extension that immerses you in the epic universe of Space Wars.",
+  "version": "1.0.0",
+  "publisher": "Dutchorange",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/entropy-glitch/space-wars.git"
+  },
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "license": "MIT",
+  "releaseNotes": [
+    {
+      "version": "1.0.0",
+      "date": "2024-10-09",
+      "notes": [
+        "Production release"
+      ]
+    }
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark theme",
+    "star wars",
+    "lightsaber",
+    "force",
+    "darth",
+    "vader",
+    "skywalker",
+    "storm trooper",
+    "galactic",
+    "retro",
+    "quality",
+    "professional",
+    "multi",
+    "bundle",
+    "space",
+    "cosmos",
+    "saga",
+    "pixel",
+    "art",
+    "minimal",
+    "galactic",
+    "glow"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Space Wars - Darth Invader",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darth-invader-color-theme.json"
+      },
+      {
+        "label": "Space Wars - Luke Skywriter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/luke-skywriter-color-theme.json"
+      },
+      {
+        "label": "Space Wars - Storm Tracker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/storm-tracker-color-theme.json"
+      }
+    ]
+  }
+}
