@@ -68,7 +68,7 @@
     "terminal.ansiBlue": "#5A5A5A",
     "terminal.ansiBrightBlue": "#FFAA44",
     "terminal.ansiMagenta": "#FFFFFF",
-    "terminal.ansiCyan": "#5A5A5A",
+    "terminal.ansiCyan": "#FF9966",
     "terminal.ansiWhite": "#E1E1E1",
     "terminalCursor.foreground": "#FFFFFF",
     "focusBorder": "#FFFFFF",

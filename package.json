@@ -29,10 +29,17 @@
       ]
     },
     {
-      "version": "1.0.2",
+      "version": "1.1.0",
       "date": "2024-11-21",
       "notes": [
         "Updated Vader Theme, optimized for Cursor and changed minor aesthetics."
+      ]
+    },
+    {
+      "version": "1.1.1",
+      "date": "2024-11-21",
+      "notes": [
+        "Updated Vader Theme, Storm Tracker, optimized for Cursor and changed minor aesthetics."
       ]
     }
   ],
