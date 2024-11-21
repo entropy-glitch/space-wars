@@ -27,6 +27,13 @@
       "notes": [
         "Updated theme images"
       ]
+    },
+    {
+      "version": "1.0.2",
+      "date": "2024-11-21",
+      "notes": [
+        "Updated Vader Theme, optimized for Cursor and changed minor aesthetics."
+      ]
     }
   ],
   "categories": [
