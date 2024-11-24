@@ -90,7 +90,7 @@
     "pickerGroup.foreground": "#FFFFFF",
     "pickerGroup.border": "#4A4A4A",
     "walkThrough.embeddedEditorBackground": "#1B1B1B",
-    "editor.wordHighlightBackground": "#FF5C5CAA",
+    "editor.wordHighlightBackground": "#572955AA",
     "notifications.background": "#2C2C2C"
   },
   "tokenColors": [
