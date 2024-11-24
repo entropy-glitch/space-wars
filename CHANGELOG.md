@@ -29,3 +29,7 @@ v.1.1.2
 v.1.1.3
 
 - Reworked the Luke Skywriter theme to be more in line with the theme aesthetics.
+
+v.1.1.4
+
+- Added two more characters: Darth Insidious and Yodan

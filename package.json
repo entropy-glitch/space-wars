@@ -55,6 +55,13 @@
       "notes": [
         "Reworked the Luke Skywriter theme to be more in line with the theme aesthetics."
       ]
+    },
+    {
+      "version": "1.1.4",
+      "date": "2024-11-24",
+      "notes": [
+        "Added two more characters: Darth Insidious and Yodan"
+      ]
     }
   ],
   "categories": [
@@ -67,6 +74,7 @@
     "force",
     "darth",
     "vader",
+    "yoda",
     "skywalker",
     "storm trooper",
     "galactic",
@@ -113,6 +121,36 @@
         "label": "Space Wars - Storm Tracker",
         "uiTheme": "vs-dark",
         "path": "./themes/storm-tracker-color-theme.json"
+      },
+      {
+        "label": "Space Wars - Darth Insidious",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darth-insidous-color-theme.json"
+      },
+      {
+        "label": "Space Wars - Yodan",
+        "uiTheme": "vs-dark",
+        "path": "./themes/yodan-color-theme.json"
+      },
+      {
+        "label": "Faith Wars - New Testament Christianity",
+        "uiTheme": "vs-dark",
+        "path": "./themes/christ.json"
+      },
+      {
+        "label": "Faith Wars - Joker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/joker.json"
+      },
+      {
+        "label": "Faith Wars - Mr Robot",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mrrobot.json"
+      },
+      {
+        "label": "Faith Wars - Mace Windu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/windu.json"
       }
     ]
   }
