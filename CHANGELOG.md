@@ -33,3 +33,7 @@ v.1.1.3
 v.1.1.4
 
 - Added two more characters: Darth Insidious and Yodan
+
+v.1.1.5
+
+- Deleted unnecessary routes for future projects

@@ -62,6 +62,13 @@
       "notes": [
         "Added two more characters: Darth Insidious and Yodan"
       ]
+    },
+    {
+      "version": "1.1.5",
+      "date": "2024-11-24",
+      "notes": [
+        "Deleted unnecessary routes for future projects"
+      ]
     }
   ],
   "categories": [
@@ -131,26 +138,6 @@
         "label": "Space Wars - Yodan",
         "uiTheme": "vs-dark",
         "path": "./themes/yodan-color-theme.json"
-      },
-      {
-        "label": "Faith Wars - New Testament Christianity",
-        "uiTheme": "vs-dark",
-        "path": "./themes/christ.json"
-      },
-      {
-        "label": "Faith Wars - Joker",
-        "uiTheme": "vs-dark",
-        "path": "./themes/joker.json"
-      },
-      {
-        "label": "Faith Wars - Mr Robot",
-        "uiTheme": "vs-dark",
-        "path": "./themes/mrrobot.json"
-      },
-      {
-        "label": "Faith Wars - Mace Windu",
-        "uiTheme": "vs-dark",
-        "path": "./themes/windu.json"
       }
     ]
   }
