@@ -3,7 +3,7 @@
   "displayName": "Space Wars - Theme",
   "icon": "artworks/logo.png",
   "description": "A VSCode theme extension that immerses you in the epic universe of Space Wars.",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "publisher": "Dutchorange",
   "repository": {
     "type": "git",
