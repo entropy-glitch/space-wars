@@ -37,3 +37,7 @@ v.1.1.4
 v.1.1.5
 
 - Deleted unnecessary routes for future projects
+
+v.1.1.6
+
+- Improved the menu selection for the Darth Insidious and the Yodan character theme

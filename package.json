@@ -69,6 +69,13 @@
       "notes": [
         "Deleted unnecessary routes for future projects"
       ]
+    },
+    {
+      "version": "1.1.6",
+      "date": "2024-11-25",
+      "notes": [
+        "Improved the menu selection for the Darth Insidious and the Yodan character theme"
+      ]
     }
   ],
   "categories": [

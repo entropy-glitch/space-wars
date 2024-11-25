@@ -70,7 +70,7 @@ To enhance your coding experience with Space Wars, follow these easy steps:
 
 2. **Choose Theme**: Type `Preferences: Color Theme` and hit `Enter`. This action will take you directly to the theme selection menu.
 
-3. **Select Space Wars**: Scroll through the list or type the name of your desired Space Wars theme (like Galactic Commander or Interstellar Navigator) and press `Enter` to apply it.
+3. **Select Space Wars**: Scroll through the list or type the name of your desired Space Wars theme (like Darth Invader or Storm Tracker) and press `Enter` to apply it.
 
 ### 🕹️ Quick Shortcut
 
@@ -156,7 +156,7 @@ v.1.0.1
 
 v.1.1.0
 
-- Updated Vader Theme, optimized for Cursor and changed minor aesthetics.
+- Updated the md file for better user experience
 
 v.1.1.1
 
@@ -164,7 +164,7 @@ v.1.1.1
 
 v.1.1.2
 
-- Updated Vader Theme, Storm Tracker, optimized for Cursor and changed minor aesthetics.
+- Updated Vader Theme, Storm Tracker, optimized for Cursor Editor and changed minor aesthetics.
 
 v.1.1.3
 
@@ -172,11 +172,15 @@ v.1.1.3
 
 v.1.1.4
 
-- Added two more characters: Darth Insidious and Yodan
+- Added two more character themes: Darth Insidious and Yodan
 
 v.1.1.5
 
-- Deleted unnecessary routes for future projects
+- Deleted routes for future projects
+
+v.1.1.6
+
+- Improved the menu selection for the Darth Insidious and the Yodan character theme
 
 ## FAQs ❓
 
