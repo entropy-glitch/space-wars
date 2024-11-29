@@ -29,15 +29,11 @@ Switch between different themes to experience the unique ambiance each one bring
 
 ## New Themes
 
-<br></br>
-
 ![Yodan Theme](./artworks/yodan.png)
 
 <br></br>
 
 ![Darth Insidious Theme](./artworks/darthInsidious.png)
-
-<br></br>
 
 ## Table of Contents
 
@@ -181,6 +177,10 @@ v.1.1.5
 v.1.1.6
 
 - Improved the menu selection for the Darth Insidious and the Yodan character theme
+
+v.1.1.7
+
+- Changed the active tab for the yoda theme for better user experience and accessibility
 
 ## FAQs ❓
 

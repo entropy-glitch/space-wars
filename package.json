@@ -76,6 +76,13 @@
       "notes": [
         "Improved the menu selection for the Darth Insidious and the Yodan character theme"
       ]
+    },
+    {
+      "version": "1.1.7",
+      "date": "2024-11-29",
+      "notes": [
+        "Changed the active tab for the yoda theme for better user experience and accessibility"
+      ]
     }
   ],
   "categories": [
@@ -117,7 +124,10 @@
     "theme",
     "vscode",
     "editor",
-    "syntax"
+    "syntax",
+    "yoda",
+    "Darth Sidious",
+    "Sheev Palpatine"
   ],
   "contributes": {
     "themes": [
